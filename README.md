@@ -25,12 +25,12 @@ d. Mahasiswa mampu memahami konsep Komposisi, Komposisi vs inheritence  dan impl
 > Saya Ibnu Adeng Kurnia NIM 2101769 mengerjakan latihan ke-1  dalam mata kuliah desain dan pemrograman berorientasi objek C2 2023
 	untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. 
 	Aamiin.
-	
+
+> NB. Saya adalah salah satu diantara mahasiswa yang mengontrak mata kuliah E-Business (IK430). )*
+
 *Design ini disusun dan/atau digunakan hanya untuk lingkungan sendiri.
 	Tidak untuk menjadi konsumsi/kepentingan umum.
 	Hanya untuk melengkapi tugas DPBO 2023.*
-
-> NB. Saya adalah salah satu diantara mahasiswa yang mengontrak mata kuliah E-Business (IK430). )*
 
 ### Bahasa Pemrograman Yang Dipakai :
 - [X] [C++](https://www.duniailkom.com/tutorial-belajar-c-plus-plus-pengertian-bahasa-pemrograman-c-plus-plus/) : bahasa pemrograman komputer yang bisa dipakai untuk membuat berbagai aplikasi *(general-purpose programming language)*, dan merupakan pengembangan dari bahasa pemrograman C.
@@ -87,7 +87,7 @@ py main.py
 ##### ![PHP](/Latihan1/PHP/screenshot/2.jpg "2").
 
 ### **Catatan**
-* )* telah dilakukan koordinasi dan kesepakatan terkait waktu dan sebagainya bersama dengan salah satu asisten karena waktu praktikum dan waktu mata kuliah e-business beririsan, sehingga ada penyesuaian terkait waktu dan lainnya.*
+* )* telah dilakukan koordinasi dan kesepakatan terkait waktu, dan sebagainya bersama dengan salah satu asisten karena waktu praktikum dan waktu mata kuliah e-business beririsan, sehingga ada penyesuaian terkait waktu dan lainnya.
 
 *Penjelasan dan/atau tampilan hasil program keseluruhan dari kode ini, dimuat didalam folder yang berinduk difolder "screenshoot keseluruhan".
 Diatas merupakan visualisasi yang diwakilkan oleh bahasa pemrograman PHP. Jika gambar screenshot/tangkapan layar tidak terbaca jelas setelah 
