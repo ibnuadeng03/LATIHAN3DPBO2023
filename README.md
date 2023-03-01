@@ -83,9 +83,9 @@ py main.py
 ```
 ### Dokumentasi Running Program
 ##### A. Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman Python
-##### ![Python](/screenshot semua bhs pemrograman/1.png "1")
-##### ![Python](/screenshot semua bhs pemrograman/2.png "2")
-##### ![Python](/screenshot semua bhs pemrograman/3.png "3")
+##### ![Python](/screenshot semua bhs pemrograman/Python/1.png "1")
+##### ![Python](/screenshot semua bhs pemrograman/Python/2.png "2")
+##### ![Python](/screenshot semua bhs pemrograman/Python/3.png "3")
 
 ### **Catatan**
 * )* telah dilakukan koordinasi dan kesepakatan terkait waktu, dan sebagainya yang berkaitan dengan praktikum bersama dengan salah satu asisten karena waktu praktikum dan waktu mata kuliah e-business beririsan, sehingga ada penyesuaian terkait waktu dan beserta lainnya.
