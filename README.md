@@ -82,9 +82,10 @@ java Main
 py main.py
 ```
 ### Dokumentasi Running Program
-##### Berikut merupakan salah satu dokumentasi hasil running dalam bahasa pemrograman PHP
-##### ![PHP](/Latihan1/PHP/screenshot/1.jpg "1").
-##### ![PHP](/Latihan1/PHP/screenshot/2.jpg "2").
+##### Berikut merupakan salah satu dokumentasi hasil running dalam bahasa pemrograman Python
+##### ![Python](/screenshot semua bhs pemrograman/Python/1.png "1").
+##### ![Python](/screenshot semua bhs pemrograman/Python/2.png "2").
+##### ![Python](/screenshot semua bhs pemrograman/Python/3.png "3").
 
 ### **Catatan**
 * )* telah dilakukan koordinasi dan kesepakatan terkait waktu, dan sebagainya yang berkaitan dengan praktikum bersama dengan salah satu asisten karena waktu praktikum dan waktu mata kuliah e-business beririsan, sehingga ada penyesuaian terkait waktu dan beserta lainnya.
