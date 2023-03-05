@@ -51,6 +51,9 @@ d. Mahasiswa mampu memahami konsep Komposisi, Komposisi vs inheritence  dan impl
 + XAMPP (diharapkan versi yang terbaru)
 + Python (diharapkan versi yang terbaru)
 
+### Diagram Alur : 
+##### ![UML](/screenshot/LT4UML.png "4")
+
 ### Running and Instalation :
 ##### a. Untuk Bahasa Pemrograman C++
 1. Simpan semua file dalam folder yang sama
@@ -83,9 +86,9 @@ py main.py
 ```
 ### Dokumentasi Running Program
 ##### A. Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman Python
-##### ![Python](/screenshot semua bhs pemrograman/Python/1.png "1")
-##### ![Python](/screenshot semua bhs pemrograman/Python/2.png "2")
-##### ![Python](/screenshot semua bhs pemrograman/Python/3.png "3")
+##### ![Python](/screenshot/1.pyhton/1.png "1")
+##### ![Python](/screenshot/1.pyhton/2.png "2")
+##### ![Python](/screenshot/1.pyhton/3.png "3")
 
 ### **Catatan**
 * )* telah dilakukan koordinasi dan kesepakatan terkait waktu, dan sebagainya yang berkaitan dengan praktikum bersama dengan salah satu asisten karena waktu praktikum dan waktu mata kuliah e-business beririsan, sehingga ada penyesuaian terkait waktu dan beserta lainnya.
