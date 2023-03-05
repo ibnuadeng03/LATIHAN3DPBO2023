@@ -108,13 +108,16 @@ py main.py
 ##### ![Python](/screenshot/1.pyhton/3.png "3")
 
 ##### B. Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman C++
+##### ![C++](/screenshot/2.C++/1.png "1")
+##### ![C++](/screenshot/2.C++/2.png "2")
+##### ![C++](/screenshot/2.C++/3.png "3")
 
 ### **Catatan**
 * )* telah dilakukan koordinasi dan kesepakatan terkait waktu, dan sebagainya yang berkaitan dengan praktikum bersama dengan salah satu asisten karena waktu praktikum dan waktu mata kuliah e-business beririsan, sehingga ada penyesuaian terkait waktu dan beserta lainnya.
 
-*Penjelasan dan/atau tampilan hasil program keseluruhan dari kode ini, dimuat didalam folder yang berinduk difolder "screenshoot keseluruhan".
-Diatas merupakan visualisasi yang diwakilkan oleh bahasa pemrograman PHP. Jika gambar screenshot/tangkapan layar tidak terbaca jelas setelah 
-dilakukan zoom in, dengan hormat mohon untuk segera menghubungi saya.*
+*Penjelasan dan/atau tampilan hasil program keseluruhan dari kode ini, dimuat didalam folder yang berinduk difolder "screenshoot".
+Diatas merupakan visualisasi oleh beberapa bahasa pemrograman. Jika gambar screenshot/tangkapan layar tidak terbaca jelas setelah 
+dilakukan zoom in/lainnya, dengan hormat mohon untuk segera menghubungi saya.*
 TERIMA KASIH.
 
 
