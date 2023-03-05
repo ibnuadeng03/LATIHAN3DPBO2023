@@ -54,6 +54,23 @@ d. Mahasiswa mampu memahami konsep Komposisi, Komposisi vs inheritence  dan impl
 ### Diagram Alur : 
 ##### ![UML](/screenshot/LT4UML.png "4")
 
+### Desain Program :
+Desain yang dibuat menggunakan beberapa kelas, diantaranya :
+1. Human
+   - Kelas human memiliki 3 atribut, diantaranya : NIK, nama dan jenis_kelamin.
+2. SivitasAkademik
+   - Kelas Sivitas Akademik memiliki 2 atribut, diantaranya : asal_universitas dan email_edu.
+3. Mahasiswa
+   - Kelas Mahasiswa memiliki 2 atribut, diantaranya : NIM, dan fakultas
+4. Dosen
+   - Kelas Dosen memiliki 4 atribut, diantaranya : NIP, fakultas, pend_terakhir, dan keahlian.
+5. Course
+   - Kelas course memiliki 1 atribut yakni nama_mk.
+6. Program
+   - Kelas Program memiliki 3 atribut, diantaranya : nama_prodi, kode dan course.
+
+Semua kelas diatas dilengkapi dengan setter dan getternya. kelas **Human** memiliki anak yakni **SivitasAkademik** karena SivitasAkademik dan Human ialah objek yang sama-sama yakni manusia. Kemudian kelas **SivitasAkademik** memiliki anak juga yakni **Dosen** dan **Mahasiswa**. Mengapa?? karena lingkup SivitasAkademik itu salahduanya terdapat Dosen dan Mahasiswa, sehingga jika kita melihat grapek diatas **dua kelas ini** merupakan **Incu** dari kelas Human (karena kedua itu anaknya SivitasAkademik). Kemudian untuk **Composite** dalam grapek diatas terdapat di **ProgramStudi** yang mengcomposite kelas **Dosen, Course, dan Mahasiswa**. Dan tidak hanya itu, disisi lain juga terlihat bahwa kelas Course mengkomposite kelas **Dosen dan Mahasiswa**.
+
 ### Running and Instalation :
 ##### a. Untuk Bahasa Pemrograman C++
 1. Simpan semua file dalam folder yang sama
@@ -89,6 +106,8 @@ py main.py
 ##### ![Python](/screenshot/1.pyhton/1.png "1")
 ##### ![Python](/screenshot/1.pyhton/2.png "2")
 ##### ![Python](/screenshot/1.pyhton/3.png "3")
+
+##### B. Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman C++
 
 ### **Catatan**
 * )* telah dilakukan koordinasi dan kesepakatan terkait waktu, dan sebagainya yang berkaitan dengan praktikum bersama dengan salah satu asisten karena waktu praktikum dan waktu mata kuliah e-business beririsan, sehingga ada penyesuaian terkait waktu dan beserta lainnya.
